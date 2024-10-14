@@ -553,7 +553,7 @@ body {
 }
 
 .contract-code-container {
-    height: 285px;
+    height: 250px;
     background-color: #f8f8f8;
     border-radius: 8px;
     padding: 10px;
