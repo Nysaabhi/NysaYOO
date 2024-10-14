@@ -154,7 +154,6 @@ body {
     color: #333;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-right: 20px;
     flex-shrink: 0;
     text-transform: uppercase;
